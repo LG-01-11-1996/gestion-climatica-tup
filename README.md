@@ -27,3 +27,7 @@ A continuación se detalla el historial de tareas integradas en este repositorio
 
 ## 📈 Resultados del Análisis Climático
 El script desarrollado por el equipo procesa las variables de temperatura promedio y precipitaciones mensuales para la región de Córdoba de manera automatizada, exportando reportes visuales listos para auditorías climáticas.
+
+
+### 📊 Visualización del Gráfico Generado por Paco:
+![Gráfico de Temperaturas](datos/grafico_temperaturas.png)
